@@ -1,6 +1,6 @@
 # YouTube True Crime Channel Automation
 
-Built by Sukurah Yusuf in collaboration with Quyum Yusuf.
+Built by Sukurah Yusuf
 
 ## About This Project
 
